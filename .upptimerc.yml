@@ -3,14 +3,29 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Porto Digital
+    url: https://www.portodigital.pt
+  - name: PIH
+    url: https://portoinnovationhub.pt/
+  - name: SomosTodosUcrania
+    url: https://somostodosucrania.pt/
+  - name: ConvocatoriaAberta
+    url: https://convocatoriaaberta.porto.digital/
+  - name: ScaleUP
+    url: https://scaleupporto.pt/
+  - name: HackaCity
+    url: https://hackacity.eu/
+  - name: PobrezaEnergetica
+    url: https://pobrezaenergetica.pt/
+  - name: Porto.pt
+    url: https://www.porto.pt/pt
+  - name: ExplorePorto
+    url: https://explore.porto.pt/
+  - name: PactoParaoClima
+    url: https://pactoparaoclima.portodigital.pt/
+  - name: CartaoPorto
+    url: https://cartao.porto.pt/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
