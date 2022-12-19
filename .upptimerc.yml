@@ -3,28 +3,9 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Porto Digital
-    url: https://www.portodigital.pt
-  - name: PIH
-    url: https://portoinnovationhub.pt/
-  - name: SomosTodosUcrania
-    url: https://somostodosucrania.pt/
-  - name: ConvocatoriaAberta
-    url: https://convocatoriaaberta.porto.digital/
-  - name: ScaleUP
-    url: https://scaleupporto.pt/
-  - name: HackaCity
-    url: https://hackacity.eu/
-  - name: PobrezaEnergetica
-    url: https://pobrezaenergetica.pt/
-  - name: Porto.pt
-    url: https://www.porto.pt/pt
-  - name: ExplorePorto
-    url: https://explore.porto.pt/
-  - name: PactoParaoClima
-    url: https://pactoparaoclima.portodigital.pt/
-  - name: CartaoPorto
-    url: https://cartao.porto.pt/
+  - name: Yahoo
+    url: https://www.yahoo.com
+  
     
 
 status-website:
