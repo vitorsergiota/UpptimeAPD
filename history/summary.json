@@ -4,7 +4,7 @@
     "url": "https://www.yahoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yahoo.com.ico",
     "slug": "yahoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 534,
     "timeMonth": 550,
     "timeYear": 623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-04": 0
+    }
   }
 ]
